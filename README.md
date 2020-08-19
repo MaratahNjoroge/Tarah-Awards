@@ -74,7 +74,7 @@ Open [localhost:8000](http://127.0.0.1:8000/)
 # CREDITS
 ##### Google.com ⭐️ StackOverflow.com ⭐️ &  Awwwards:star:.
 # Support and Contacts
-In case You have any issues using this code please do no hesitate to get in touch with me through brysonmundia@gmail.com or leave a comment here on Github.
+In case You have any issues using this code please do no hesitate to get in touch with me through maratah7@gmail.com or leave a comment here on Github.
 ## Known Bugs
 None so far.
 ## Technologies Used
