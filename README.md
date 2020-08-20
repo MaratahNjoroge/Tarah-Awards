@@ -76,8 +76,8 @@ Open [localhost:8000](http://127.0.0.1:8000/)
 # Support and Contacts
 In case You have any issues using this code please do no hesitate to get in touch with me through maratah7@gmail.com or leave a comment here on Github.
 ## Known Bugs
-The dropdown does not function as desired.
-When a new user tries adding a project it distorts the other users projects .
+* The dropdown does not function as desired.
+* When a new user tries adding a project it distorts the other users projects .
 ## Technologies Used
 - Python3.6
 - Django framework
